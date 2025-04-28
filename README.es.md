@@ -9,8 +9,6 @@
 
 Dentro de este repositorio, encontrarás un archivo llamado `./INSTRUCTIONS.es.md` con los pasos necesarios para completarlo.
 
-<onlyfor saas="false" withBanner="false">
-  
 ## 🌱 Cómo comenzar este proyecto
 
 Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
@@ -26,8 +24,6 @@ https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial
 **👉 Por favor sigue estos pasos sobre** [cómo iniciar un proyecto de programación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
 Una vez que haya terminado de abrir, puedes abrir el archivo `app.py` y comenzar a resolver.
-
-</onlyfor>
 
 ## 🚛 Cómo entregar este proyecto
 
